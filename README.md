@@ -41,7 +41,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=niloykhan002&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=niloykhan002&show_icons=true">
 </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niloykhan002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloykhan002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
